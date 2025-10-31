@@ -6,6 +6,6 @@
    
 4. Created Freestyle Jenkins job.
    
-5. Build goal: `clean package`
+5. Build goal: clean package
    
 6. Verified Console Output → “BUILD SUCCESS”
